@@ -1,0 +1,6 @@
+# BMAD Core Config — mangrove
+user_name: Walter
+project_name: mangrove
+communication_language: English
+document_output_language: English
+output_folder: _bmad/output
