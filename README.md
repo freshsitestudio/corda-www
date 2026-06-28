@@ -1,2 +1,3 @@
 # corda-www
-Corda NZ — Building company web presence
+
+Corda NZ web presence — built by freshsite.studio
